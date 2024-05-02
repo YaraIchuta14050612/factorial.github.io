@@ -1,0 +1,13 @@
+body{
+  background-color: black;
+}
+
+h1{
+  color: aqua;
+}
+
+.roboto-medium {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
